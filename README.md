@@ -1,12 +1,16 @@
-# Christmas-list
+# Tech stuff
 
+|                    Item                    |   Price    |                                            Link(s)                                             | Notes                    |
+|:------------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------:| ------------------------ |
+| Quality Caliper (0.01mm resolution)(150mm) | **$34.99** | [amazon](https://www.amazon.com/Kynup-Measuring-Stainless-Waterproof-Protection/dp/B07X8JQ8L5) | General purpose calipers |
 
-## Tech stuff
-|                      Item                      |   Price    |                                            Link(s)                                             | Notes                                                                        |
-|:----------------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------:| ---------------------------------------------------------------------------- |
-|              Ender 3 Silent Board              | **$37.99** |  [amazon](https://www.amazon.com/BIGTREETECH-Upgrade-Control-TMC2209-Creality/dp/B0882QGFZR)   | Make sure you click "SKR Mini E3 V2.0 (STM32F103RCT6)" if it is not selected |
-|   Quality Caliper (0.01mm resolution)(150mm)   | **$34.99** | [amazon](https://www.amazon.com/Kynup-Measuring-Stainless-Waterproof-Protection/dp/B07X8JQ8L5) | General purpose calipers                                                     |
+# *Printer upgrades*
 
+## General printer upgrades
+|         Item         |                  Price                   |                                                                                                 Link(s)                                                                                                 | Notes                                                                                             |
+|:--------------------:|:----------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| ------------------------------------------------------------------------------------------------- |
+| Ender 3 Silent Board |                **$37.99**                |                                                       [amazon](https://www.amazon.com/BIGTREETECH-Upgrade-Control-TMC2209-Creality/dp/B0882QGFZR)                                                       | Make sure you click "SKR Mini E3 V2.0 (STM32F103RCT6)" if it is not selected                      |
+|  PEI build surface   | **$37.79** (HICTOP) **$21.99** (Comgrow) | [amazon](https://www.amazon.com/HICTOP-Flexible-Platform-235x235mm-V2%EF%BC%8CEnder-3/dp/B08PFJKW5J) [amazon](https://www.amazon.com/dp/B09TVGDJYP/ref=cm_sw_r_apan_glt_fabc_KNSC9DMW53E5G3WWJR9V?th=1) | It doesnt matter too much which you pick, I just put both down so I can decide later if I want to |
 
 ## Belted Z mod
 | Item | Price | Link(s) | Notes |
