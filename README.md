@@ -18,6 +18,6 @@
 | Item | Price | Link(s) | Notes |
 |:----:|:-----:|:-------:| ----- |
 | 5M GT2 6mm width Belt (Z-belt mod for printer) | **$12.99** |    [amazon](https://www.amazon.com/Upgrade-Non-Slip-Version-Printer-Printers/dp/B08R93QQ8Z)    | 1/? for z-belt mod for my Ender 3                                            |
-|   Stepper moter extension cable (Z-belt mod)   | **$8.99**  |    [amazon](https://www.amazon.com/Iverntech-XH2-54-Terminal-Stepper-Printer/dp/B07PZWXBFB)    | 2/? for mod                                                                  |
+|   <sub>~~Stepper moter extension cable (Z-belt mod)~~</sub>   | **$8.99**  |    [amazon](https://www.amazon.com/Iverntech-XH2-54-Terminal-Stepper-Printer/dp/B07PZWXBFB)    | ~~2/? for mod~~                                                |
 |        5pcs GT2 20T idler for 6mm belt         | **$10.55** |  [amazon](https://www.amazon.com/Wangdd22-Aluminum-Bearing-Printer-Accessories/dp/B074QKKVWF)  | 3/? for mod                                                                  |
 |5pcs GT2 20T pulley for 6mm belt|**$5.99**|[amazon](https://www.amazon.com/WINSINN-Aluminum-Synchronous-Timing-Printer/dp/B077GMKW1C)|4/? for mod|
